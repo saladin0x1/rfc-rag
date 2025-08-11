@@ -1,0 +1,13 @@
+loguru
+mkdocs
+pip
+pytest
+python-dotenv
+ruff
+tqdm
+typer
+sentence-transformers
+faiss-cpu
+numpy<2
+torch
+anthropic
